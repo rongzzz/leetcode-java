@@ -1,2 +1,2 @@
 # leetcode
-For store leetcode solution
+For store leetcode solution (java)
